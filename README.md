@@ -1,7 +1,7 @@
 ## Developer and Student @ University of Waterloo
 ### 唐艾迪 | Edy Tang
 
-Welcome to my GitHub profile ദ്ദി˙ ᴗ ˙ ) 
+Welcome to my GitHub profile ദ്ദി
 
 <!--
 **tangedy/tangedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
