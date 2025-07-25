@@ -3,6 +3,8 @@
 
 Welcome to my GitHub profile ദ്ദി
 
+eddie.tang@uwaterloo.ca
+linkedin.com/in/tanged
 <!--
 **tangedy/tangedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
